@@ -26,11 +26,13 @@
 }
 
 .header__title {
+  width: 730px;
   font-size: 102px;
   line-height: 96px;
   margin: auto;
   margin-left: 64px;
-  
+  width: 183px;
+  height: 32px;
 }
 
 .header__subtitle {
