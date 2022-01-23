@@ -238,7 +238,7 @@
 }
 
 .footer__columns{
-  margin-left:auto
+  margin-left:auto;
   width: 90%;
   display: flex;
 }
