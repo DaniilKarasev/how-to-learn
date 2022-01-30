@@ -258,12 +258,12 @@
 
 /* ! Блок Футер */
 .footer {
-  
   min-height: 350px;
   background-color: #1f1f1f;
 }
 
 .footer__columns{
+  width: 90%;
   padding: 60px 64px 40px;
   display: flex;
   justify-content: space-between;
