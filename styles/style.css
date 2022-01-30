@@ -32,7 +32,6 @@
   max-width: 730px;
   font-size: 102px;
   line-height: 96px;
-  margin: 0 auto;
   margin-left: 64px;
   z-index: 2;
 }
@@ -160,6 +159,7 @@
 
 .table__cell {
   width: 250px;
+  margin-top: 60px;
 }
 
 .table__heading {
@@ -226,6 +226,7 @@
   position: relative;
   overflow: hidden;
   background-color: #1f1f1f;
+  padding: 90px 0;
 }
 
 .kaufman__triangle {
@@ -239,8 +240,7 @@
 }
 
 .section-title_theme_dark {
-  margin-top: 90px;
-    color: white;
+  color: white;
 }
 
 .section-subtitle_theme_dark {
@@ -256,10 +256,15 @@
   z-index: 1;
 }
 
+.table__text_theme_dark {
+  margin-bottom: 0;
+}
+
 /* ! Блок Футер */
 .footer {
   min-height: 350px;
   background-color: #1f1f1f;
+  display: flex;
 }
 
 .footer__columns{
@@ -292,15 +297,17 @@
   color: white;
 }
 
+.footer__list {
+  list-style: none;
+}
+
 .footer__column_content_info {
   margin: 0 auto;
-  list-style: none;
   padding: 0;
 }
 
 .footer__column_content_social {
   margin-top: 0;
-  list-style: none;
   padding: 0;
 }
 
