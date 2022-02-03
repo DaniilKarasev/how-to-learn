@@ -1,20 +1,10 @@
-/** Импорт сторонних стилей */
-
 @import url(../vendor/normalize.css);
-
-
-
-/** Импорт стилей страницы(глобальных) */
 
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/page/_link-fade/page_link-fade_opacity.css);
 
 @import url(../blocks/rotation/rotation.css);
-
-
-
-/** Импорт используемых стилей в Хедер */ 
 
 @import url(../blocks/header/header.css);
 
@@ -30,10 +20,6 @@
 
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
-
-
-/** Импорт используемых стилей в "Описание" */ 
-
 @import url(../blocks/description/description.css);
 
 @import url(../blocks/two-columns/two-columns.css);
@@ -45,10 +31,6 @@
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
-
-
-
-/** Импорт используемых стилей в "Техники" */ 
 
 @import url(../blocks/techniques/techniques.css);
 
@@ -62,24 +44,13 @@
 
 @import url(../blocks/cards/__description/cards__description.css);
 
-
-
-/** Импорт используемых стилей в "Видео" */ 
-
 @import url(../blocks/video/video.css);
 
 @import url(../blocks/video/__iframes/video__iframes.css);
 
 @import url(../blocks/video/__iframe/video__iframe.css);
 
-
-/** Импорт используемых стилей в "Оакли" */ 
-
 @import url(../blocks/oakley/oakley.css);
-
-
-
-/** Импорт используемых стилей в "Фейнман" */ 
 
 @import url(../blocks/feynman/feynman.css);
 
@@ -88,10 +59,6 @@
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 
 @import url(../blocks/feynman/__title/feynman__title.css);
-
-
-
-/** Импорт используемых стилей в "Цифры" */ 
 
 @import url(../blocks/digits/digits.css);
 
@@ -106,10 +73,6 @@
 @import url(../blocks/table/__heading/table__heading.css);
 
 @import url(../blocks/table/__text/table__text.css);
-
-
-
-/** Импорт используемых стилей в "Хан" */ 
 
 @import url(../blocks/khan/khan.css);
 
@@ -131,10 +94,6 @@
 
 @import url(../blocks/khan/_book-container/khan__book-container.css);
 
-
-
-/** Импорт используемых стилей в "Кауфман" (стили для заголовков\таблицы поддягиваются из "Цифры", импортируем модификаторы) */
-
 @import url(../blocks/kaufman/kaufman.css);
 
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
@@ -147,19 +106,11 @@
 
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
-
-
-/** Импорт используемых стилей в "Ресурсы" */
-
 @import url(../blocks/resources/resources.css);
 
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 
 @import url(../blocks/resources/__logo/resources__logo.css);
-
-
-
-/** Импорт используемых стилей в Футере */ 
 
 @import url(../blocks/footer/footer.css);
 
