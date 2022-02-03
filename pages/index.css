@@ -2,7 +2,7 @@
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/page/__link/page__link_fade.css);
+@import url(../blocks/page/page-link.css);
 
 @import url(../blocks/rotation/rotation.css);
 
