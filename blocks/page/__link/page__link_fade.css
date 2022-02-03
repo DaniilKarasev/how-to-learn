@@ -1,9 +1,9 @@
 
-.page_link-fade_opacity {
+.page__link_fade {
     opacity: 1;
 }
 
-.page_link-fade_opacity:hover {
+.page__link_fade:hover {
     opacity: 0.6;
     transition: 0.3s;
 } 
