@@ -6,4 +6,5 @@
     width: 877px;
     height: 877px;
     background: url(../../../images/kaufman-triangle.svg) no-repeat center / 877px 877px;
+    z-index: -1;
 }
